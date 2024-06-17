@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub flow
+This is a copy of the Readme file from the main flow
